@@ -1,0 +1,201 @@
+Region,Place name,Place type,Rating,Reviews,Price,Delivery option,Dine in option,Takeout option
+Mariupol,Dim Kavu,Coffee store,4.6,206,,,,
+Mariupol,Коферум,Cafe,5,24,$$,FALSE,,TRUE
+Mariupol,Кофейня Світ Чаю,Coffee shop,5,11,,,,TRUE
+Mariupol,Кофейня Starcoff,Coffee shop,4.4,331,$$,FALSE,TRUE,TRUE
+Mariupol,"Кофейня ""Friend Zone""",Coffee shop,5,12,,,TRUE,TRUE
+Mariupol,Racers Coffee Shop,Espresso bar,4.6,367,$$,FALSE,TRUE,TRUE
+Mariupol,Займемся Кофе,Coffee shop,4.6,200,$$,FALSE,TRUE,TRUE
+Mariupol,Кофейня Rit Rit,Coffee shop,4.6,292,$$,FALSE,,TRUE
+Mariupol,Кав'ярня My coffee,Coffee shop,4.8,31,,,TRUE,TRUE
+Mariupol,LENЬ. Coffee & desserts.,Coffee shop,4.8,125,$$,TRUE,TRUE,TRUE
+Mariupol,SOVA COFFEE,Coffee shop,4.8,112,,,TRUE,TRUE
+Mariupol,Кава Тайм,Coffee shop,4.9,14,,,,TRUE
+Mariupol,Skver кафе,Cafe,4.9,18,,FALSE,TRUE,TRUE
+Mariupol,Кафе на Георгіївській,Cafe,4.5,806,$,,TRUE,TRUE
+Mariupol,Khosper,Cafe,4.2,609,$$,,TRUE,TRUE
+Mariupol,Lekontina Шоколадна Майстерня,Cafe,4.7,172,$$,TRUE,TRUE,TRUE
+Mariupol,Lecker,Cafe,4.8,234,$$,TRUE,TRUE,TRUE
+Mariupol,Veterano Coffee,Coffee shop,4.5,136,$$,FALSE,,TRUE
+Mariupol,VEIN,Cafe,4.5,166,$$,TRUE,TRUE,TRUE
+Mariupol,Coffee Drive,Coffee shop,4.8,10,,FALSE,TRUE,TRUE
+Poltava,G COFFEE,Coffee shop,4.5,1596,$$,TRUE,TRUE,
+Poltava,Kavun,Coffee shop,4.7,1785,$$,TRUE,TRUE,
+Poltava,Buns Brew Bar,Coffee shop,4.7,459,$$,FALSE,,TRUE
+Poltava,Coffee House,Cafe,4.7,329,$$,FALSE,,TRUE
+Poltava,"""Точка кофе""",Espresso bar,4.9,14,,FALSE,,TRUE
+Poltava,Your Coffee,Cafe,4.7,569,$$,FALSE,TRUE,
+Poltava,KOFEiN,Cafe,4.4,860,$$$,,TRUE,TRUE
+Poltava,"Perfect Coffee, КАВ'ЯРНЯ",Espresso bar,4.8,124,$$,FALSE,TRUE,TRUE
+Poltava,Misceva kavyarnya,Coffee shop,4.5,898,$$,FALSE,TRUE,TRUE
+Poltava,Dzhi,Cafe,4.5,1195,$$,TRUE,TRUE,TRUE
+Poltava,Gangster coffee shop,Coffee store,4.7,347,$$,TRUE,,
+Poltava,Crema Caffe Poltava,Coffee shop,4.3,12,,FALSE,,TRUE
+Poltava,COFFBOY,Coffee shop,4.7,112,,FALSE,TRUE,TRUE
+Poltava,Wake Up Coffee,Coffee shop,4.9,17,,FALSE,,TRUE
+Poltava,Lviv Handmade Chocolate,Chocolate shop,4.6,1376,$$,FALSE,TRUE,TRUE
+Poltava,"ПЕРША ДЕГУСТАЦІЙНА ЗАЛА КАВИ ""GANGSTER_COFFEE SHOP 3""",Coffee store,5,37,,,,
+Poltava,Aroma kava,Cafe,4.4,226,$$,FALSE,TRUE,TRUE
+Poltava,Koffishka,Coffee shop,4.1,716,$$,FALSE,TRUE,TRUE
+Poltava,ЗАКУТОК - coffee hookah point,Coffee shop,5,15,,,,
+Poltava,CoffeePot,Coffee shop,5,18,,FALSE,TRUE,
+Kherson,Coffee 66,Cafe,5,15,,,,TRUE
+Kherson,Godshot Coffee,Cafe,4.7,726,$$,,TRUE,TRUE
+Kherson,Verona,European restaurant,4.5,1345,$$,TRUE,TRUE,
+Kherson,Prostir.coffee Таврик,Coffee shop,5,26,,,TRUE,
+Kherson,I love coffee,Coffee shop,4.7,485,$$,FALSE,TRUE,TRUE
+Kherson,coffee House,Coffee shop,4.7,279,$$,FALSE,TRUE,TRUE
+Kherson,Дом Кофе,Coffee shop,4.6,241,$$,FALSE,TRUE,TRUE
+Kherson,CoffeeOk,Coffee shop,4.9,18,,FALSE,,TRUE
+Kherson,Кофе с Совой,Espresso bar,4.9,46,,FALSE,,TRUE
+Kherson,Кофе В Херсоне,Cafe,,,,FALSE,,
+Kherson,Prostir.coffee,Coffee shop,4.7,587,$$,TRUE,TRUE,TRUE
+Kherson,Don Marco coffee shop,Coffee shop,4.4,593,$$,FALSE,TRUE,TRUE
+Kherson,HOTCUP,Cafe,4.6,103,,FALSE,,TRUE
+Kherson,Koko,Coffee shop,4.4,1201,$$,FALSE,TRUE,TRUE
+Kherson,Coffee house,Coffee shop,4.4,67,$$,FALSE,,TRUE
+Kherson,Coffeehouse Na Poshtovomu Provulku,Coffee shop,4.6,275,$$,FALSE,TRUE,TRUE
+Kherson,Just Coffee Kherson,Espresso bar,4.5,27,,FALSE,,TRUE
+Kherson,Don Marco,Coffee shop,4.4,304,$$,FALSE,TRUE,TRUE
+Kherson,Green house,Cafe,4.5,598,$$,TRUE,TRUE,TRUE
+Kherson,Kofemolka,Coffee shop,4.7,97,,FALSE,,TRUE
+Zaporozhye,Art Coffee,Espresso bar,4.6,11,,,,
+Zaporozhye,Art Coffee - Інтернет Магазин Кави та Чаю,Internet shop,5,12,,TRUE,,
+Zaporozhye,Coffeeshop GRANO,Cafe,4.9,14,,FALSE,,TRUE
+Zaporozhye,"Мастерская ""Кофе на разлив""",Appliance repair service,5.0,15,,,,
+Zaporozhye,Coffeeсть,Coffee shop,4.6,38,,,TRUE,TRUE
+Zaporozhye,The Boiler Room,Coffee shop,4.8,98,,,TRUE,
+Zaporozhye,Dim Kavy,Espresso bar,4.8,118,$$,,,
+Zaporozhye,"Интернет-магазин ""Kava-e""",Coffee store,4.7,121,,,,
+Zaporozhye,Coffee House,Store,4.7,132,,,,
+Zaporozhye,Jays : Coffee Brewers,Coffee stand,4.5,167,$$,,,TRUE
+Zaporozhye,Caffisimo,Espresso bar,4.5,223,$$,,,
+Zaporozhye,MY COFFEE,Coffee shop,4.5,341,$$,FALSE,TRUE,TRUE
+Zaporozhye,"Kaffe ""Na Peskah""",Cafe,4.2,385,$$,FALSE,TRUE,TRUE
+Zaporozhye,LittleTalk Coffee,Coffee shop,4.6,414,$$,FALSE,TRUE,TRUE
+Zaporozhye,Столовая BUFET,Cafe,5.0,440,,TRUE,TRUE,TRUE
+Zaporozhye,Svit kavy,Coffee shop,4.6,488,$$,FALSE,TRUE,TRUE
+Zaporozhye,Comeback coffee & more,Cafe,4.8,807,$$,FALSE,TRUE,TRUE
+Zaporozhye,Coffeelab Roasters,Coffee shop,4.7,837,$$,FALSE,TRUE,TRUE
+Zaporozhye,Cholla & Joshua,Espresso bar,4.6,1482,$$,FALSE,TRUE,
+Zaporozhye,Dobra Kava,Cafe,4.3,1656,$$,TRUE,TRUE,
+Odessa,Смажимо каву в Одесі. Обсмажувальна №2,Coffee shop,4.7,335,$$,FALSE,TRUE,TRUE
+Odessa,Traveler`s Coffee,Coffee shop,4.6,2700,$$,TRUE,TRUE,TRUE
+Odessa,Кофе База Одесса | Coffee Baza,Store,5.0,10,,,,
+Odessa,We Roast Coffee in Odessa,Coffee shop,4.5,122,,FALSE,TRUE,TRUE
+Odessa,Burso_Coffee,Coffee shop,5,21,,,TRUE,TRUE
+Odessa,Foundation Coffee Roasters,Espresso bar,4.7,1415,$$,TRUE,TRUE,
+Odessa,Red Cup Coffee Roasters,Coffee roasters,5,15,,,,
+Odessa,Krem Kafe,Coffee shop,4.9,64,,,TRUE,
+Odessa,FAB.,Pastry shop,4.9,47,,,TRUE,TRUE
+Odessa,Zheto,Coffee shop,4.8,2141,$$,,TRUE,TRUE
+Odessa,Eclair&Coffee,Espresso bar,4.9,36,,,,
+Odessa,Coffee Room,Coffee shop,4.7,202,$$,FALSE,TRUE,TRUE
+Odessa,Смажимо каву. Обсмажувальна N3,Coffee shop,4.6,113,$$,,,
+Odessa,kofevarka.odessa.ua,Coffee store,4.6,111,,TRUE,,
+Odessa,Anso Coffee,Coffee shop,4.9,40,,,TRUE,
+Odessa,Pasadena Coffee,Coffee shop,4.9,39,,FALSE,TRUE,
+Odessa,Coffeetory Кофетория,Coffee shop,4.6,789,$$,TRUE,TRUE,TRUE
+Odessa,MY COFFEE,Coffee shop,4.8,150,$$,FALSE,TRUE,TRUE
+Odessa,Жарим Кофе в Одессе. Обжарочная №4,Coffee shop,4.7,80,,,,
+Odessa,Coffee break ZAVIDA,Coffee shop,4.9,10,,,,
+Lviv,Lviv Coffee Manufacture,Coffee shop,4.7,17937,$$,TRUE,TRUE,TRUE
+Lviv,Svit Kavy,Coffee shop,4.6,2931,$$,,TRUE,TRUE
+Lviv,Na bambetli,Coffee shop,4.7,2089,$$,FALSE,TRUE,TRUE
+Lviv,Golden Ducat,Coffee shop,4.4,813,$$,FALSE,TRUE,TRUE
+Lviv,Lviv coffee manufacture (Valova),Coffee shop,4.6,1517,$$,FALSE,TRUE,TRUE
+Lviv,SDV Coffee,Coffee shop,4.8,858,$$,,TRUE,TRUE
+Lviv,Fixage,Coffee shop,4.6,702,$$,FALSE,TRUE,TRUE
+Lviv,Svit Kavy,Coffee shop,4.3,102,,,TRUE,TRUE
+Lviv,Lviv Coffee Manufacture,Coffee shop,4.5,778,$$,FALSE,TRUE,TRUE
+Lviv,Lʹvivsʹka Manufaktura Kavy,Coffee shop,4.6,1009,$$,FALSE,TRUE,TRUE
+Lviv,Вірменка,Coffee shop,4.8,2873,$$,FALSE,TRUE,TRUE
+Lviv,Saturdays Coffee Цирк,Coffee shop,5,24,,TRUE,TRUE,TRUE
+Lviv,coffee House,Coffee shop,4.7,363,$$,FALSE,TRUE,TRUE
+Lviv,Chekhovych,Coffee roasters,4.6,1199,,FALSE,TRUE,TRUE
+Lviv,Svit Kavy (Rynok Sq.),Coffee shop,4.6,1284,$$,FALSE,TRUE,TRUE
+Lviv,Cafe 1,Cafe,4.6,1570,$$,TRUE,TRUE,TRUE
+Lviv,Liberty,Cafe,5,10,,,,TRUE
+Lviv,Lviv Croissants,Cafe,4.5,2236,$$,FALSE,TRUE,TRUE
+Lviv,Rondo Cafe,Cafe,4.9,157,$$,FALSE,TRUE,TRUE
+Lviv,Karmel Coffee Shop,Coffee shop,4.9,321,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,SV Кафе,Cafe,4.5,998,$$,TRUE,TRUE,TRUE
+Khrivoy Rog,I Feel Espresso Bar,Cafe,4.5,1509,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,I want coffee,Coffee shop,4.4,699,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,Кофейня My Coffee,Cafe,4.5,124,$$,FALSE,,TRUE
+Khrivoy Rog,Hunter's yard,Cafe,4.4,479,$$,,TRUE,TRUE
+Khrivoy Rog,Crema Caffe Кривий Ріг,Coffee shop,4.7,455,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,"Tea, Coffee Shop",Coffee store,4.6,401,,FALSE,TRUE,TRUE
+Khrivoy Rog,Антикафе 7/9 | Кривой Рог,Cafe,4.7,190,,FALSE,TRUE,
+Khrivoy Rog,Чай Кофе,Cafe,4.4,40,,,,
+Khrivoy Rog,Coffee Craft,Cafe,4.7,342,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,ЕТУАЛЬ КАФЕ,Cafe,4.6,327,$$$,TRUE,TRUE,TRUE
+Khrivoy Rog,Coffee Break,Espresso bar,4.8,49,,FALSE,,TRUE
+Khrivoy Rog,SV Кафе,Cafe,4.6,740,$$,FALSE,TRUE,TRUE
+Khrivoy Rog,Dva Gusya Pizza,Cafe,4,1439,$$,TRUE,TRUE,TRUE
+Khrivoy Rog,Offshore cafe,Cafe,4.4,947,$$,,TRUE,TRUE
+Khrivoy Rog,Франс.уа на Пушкина,Cafe,4.9,156,$$,,TRUE,TRUE
+Khrivoy Rog,Дикий Койот кафе,Cafe,4.9,116,,TRUE,TRUE,TRUE
+Khrivoy Rog,BON BON,Coffee shop,4.8,156,,FALSE,TRUE,TRUE
+Khrivoy Rog,The Spiceroom,Cafe,4.6,38,,TRUE,,TRUE
+Khrivoy Rog,Магазин AROMA coffee&tea shop,Cafe,5,33,$$,,TRUE,
+Kiev,coffeeok,Coffee store,4.9,1820,,TRUE,,
+Kiev,"""®КАВА БАЗА®""",E-commerce service,5,21,,,,
+Kiev,Coffee in Action,Coffee shop,4.9,304,$$,,,
+Kiev,Горький Espresso Bar,Coffee shop,5,22,,,,
+Kiev,Кафе Бутик,Coffee store,4.7,373,,TRUE,,
+Kiev,Cuba Coffee Brew - Bar,Espresso bar,4.6,693,$$,FALSE,TRUE,TRUE
+Kiev,Progress Cafe,Coffee shop,4.9,26,,,,
+Kiev,Буду Кофе,Coffee shop,4.9,282,,FALSE,TRUE,TRUE
+Kiev,ONE LOVE espresso bar,Coffee shop,4.6,2319,$$,FALSE,TRUE,TRUE
+Kiev,Matílda cafe,Cafe,4.9,26,,,TRUE,TRUE
+Kiev,TAKAVA Coffee-Buffet,Cafe,4.6,1737,$$,,TRUE,TRUE
+Kiev,Kaffa,Cafe,4.7,1281,$$,FALSE,TRUE,TRUE
+Kiev,The Blue Cup Coffee Shop,Espresso bar,4.6,1908,$$,TRUE,TRUE,TRUE
+Kiev,LION coffee,Coffee shop,4.9,64,,,,
+Kiev,Kaffa,Espresso bar,4.8,824,$$,FALSE,TRUE,TRUE
+Kiev,London,Cafe,4.7,1633,$$,,TRUE,
+Kiev,PRO Coffee,Espresso bar,4.8,35,,,TRUE,TRUE
+Kiev,RIGHT coffee bar,Coffee shop,4.7,514,$$,FALSE,TRUE,TRUE
+Kiev,Espressoholic,Espresso bar,4.6,1300,$,FALSE,TRUE,TRUE
+Kiev,Matin Desserts & Coffee,Coffee shop,4.9,110,,,,
+Kharkiv,КофеТочка Харьков - интернет-магазин кофе и кофеоборудования,Coffee store,3.9,10,,,,
+Kharkiv,Coffee House,Espresso bar,4.5,268,$$,,,
+Kharkiv,Sweeter,Coffee shop,4.6,642,$$,FALSE,TRUE,TRUE
+Kharkiv,Workshop coffee,Coffee shop,4.7,400,$$,FALSE,TRUE,TRUE
+Kharkiv,Мастерская Кофе,Coffee shop,4.7,403,$$,FALSE,TRUE,TRUE
+Kharkiv,Kofeyin,Coffee shop,4.5,2914,$$,FALSE,TRUE,TRUE
+Kharkiv,Dom Kofe,Coffee shop,4.6,40,,,,
+Kharkiv,coffee House,Cafe,4.6,96,$$,FALSE,,
+Kharkiv,Cats and coffee | Киці та кава,Espresso bar,4.6,1394,,TRUE,TRUE,TRUE
+Kharkiv,CoffeeDoor Brewbar & Coffeeshop,Coffee shop,4.7,512,$$,FALSE,TRUE,TRUE
+Kharkiv,"Dom Kofe, Mah.",Coffee shop,4.3,3,,,,
+Kharkiv,Dim Kavy,Espresso bar,4.7,185,$$,,,
+Kharkiv,Dim Kavy,Coffee store,4.7,222,,,TRUE,TRUE
+Kharkiv,Sweeter,Coffee shop,4.6,289,$$,FALSE,TRUE,TRUE
+Kharkiv,Kava U Shafi,Coffee shop,4.6,702,$$,,TRUE,
+Kharkiv,Coffeelaktika,Coffee shop,4.8,261,$$,FALSE,TRUE,TRUE
+Kharkiv,"Caffissimo, КОФЕЙНЯ",Coffee shop,4.6,118,$$,TRUE,TRUE,TRUE
+Kharkiv,Coffeelaktika coffee studio,Coffee shop,4.5,121,$$,FALSE,TRUE,TRUE
+Kharkiv,KOFEiN®,Coffee shop,4.6,1758,$$,,TRUE,TRUE
+Kharkiv,Mr. Bourbon,Coffee shop,4.7,551,$$,FALSE,TRUE,TRUE
+Dnipro,DoubleDecker Cake and Coffee,Pastry shop,4.7,2381,$$$,TRUE,TRUE,TRUE
+Dnipro,Dim Kavy,Store,4.9,39,,,,
+Dnipro,Бамбук,Cafe,4.1,189,$$,,TRUE,TRUE
+Dnipro,I feel city cafe,Cafe,4.5,1529,$$,TRUE,TRUE,TRUE
+Dnipro,Coffee Secrets,Cafe,4.6,38,,,TRUE,TRUE
+Dnipro,Horizontal kaffee,Cafe,5,37,,FALSE,TRUE,
+Dnipro,"Coffee&Cake, Game zone PS4",Coffee shop,,,,,,
+Dnipro,Zeffirino,Coffee shop,4.6,830,$$,,TRUE,TRUE
+Dnipro,Coffee Life,Cafe,4,170,$$,,TRUE,TRUE
+Dnipro,The sisters,Cafe,4.7,155,$$,FALSE,TRUE,TRUE
+Dnipro,"""Франс.уа"" кофейня-пекарня",Cafe,3.9,9,,FALSE,,TRUE
+Dnipro,Tsikava Kava,Coffee store,4.7,185,,TRUE,TRUE,
+Dnipro,Try Bobry,Coffee shop,4.6,2013,$$,FALSE,TRUE,TRUE
+Dnipro,Pa-si-ju Кафе,Cafe,4.6,1051,$$,TRUE,TRUE,TRUE
+Dnipro,Колибри,Cafe,5,18,,,TRUE,TRUE
+Dnipro,Artist,Restaurant,4.6,963,$$$,,TRUE,TRUE
+Dnipro,Dream Cafe,Cafe,4.3,646,$$,FALSE,TRUE,TRUE
+Dnipro,РУТА КАФЕ ПП КУЛІЧЕНКО К.І.,Cafe,4.6,16,$$,FALSE,TRUE,TRUE
+Dnipro,Ob'yektna Kava,Coffee shop,4.7,599,$$,,TRUE,TRUE
+Dnipro,О...МАРАТ КАФЕ ПП ПОЛІСТЕП,Cafe,4.3,341,,,TRUE,
